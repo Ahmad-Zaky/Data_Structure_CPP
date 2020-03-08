@@ -1,0 +1,473 @@
+«‰ ‘«¡ «··Â «·„·› œÂ ›ÌÂ ﬂ· «··Ï «‰  „Õ «ÃÂ ⁄‘«‰  –«ﬂ— «·„«œÂ ÊÂ »œ« „‰ ›Êﬁ ·Õœ «·«Œ—  Õ  Ê„„ﬂ‰ ·Ê Â÷Ì› ‘∆ ÃœÌœ Â⁄œ· ›ÌÂ Ê«‰“·Â  «‰Ï 
+
+
+«·„‰ÂÃ:
+
+œÂ ›ÌœÌÊ »ÌÊ÷Õ «·„·› œÂ
+http://www.mediafire.com/file/bujz9nxyqegavq0/Tree-SO.cpp
+
+------------------Prepare for the Course---------------
+
+1-Struct(User Defined Data Type).
+2-Pionters.
+
+------------------Strucures----------------------------
+
+3-Stack Array Implementation.
+4-Stack Linked Implementation.
+5-Queue Array Implementation.
+6-Queue Linked Implementation.
+7-Linked Lists (Single Linear).
+
+----Appictation on one of the Sturctures(Stack)---------
+
+8-Stack Application(Polish Notation).
+
+-------------------------------------------------------
+9-*Sorting        and       *Searching Algoritms
+  |			    |
+  |-->Bubble                |-->Linear(or Sequential)
+  |-->Insertion 	    |-->Binary	
+  |-->Selection
+  |-->Merge(without Code)
+-------------------------------------------------------
+10-Recursion(Tower of Hanoi)
+-------------------------------------------------------
+11-Binary Tree
+-------------------------------------------------------
+
+===================================================================Material Online Links=========================================================================================================================
+
+Data Structure 2016 
+
+http://www.mediafire.com/file/g27t9ev47uj4j7j/Data_Structure_AYA_FINAL_Jan_2016.pdf
+
+Data Structure 2016 Sol
+
+http://www.mediafire.com/file/1nb259p8ef7t77e/Data_Structure_AYA_FINAL_Jan_2016_Sol.docx
+
+Data Structure 2015
+
+http://www.mediafire.com/file/b9jo8qyukl2w8uq/Data_Structure_AYA_FINAL_Jan_2015.pdf
+
+Data Structure 2015 Sol
+
+http://www.mediafire.com/file/22790qa02o62zbx/Data_Structure_AYA_FINAL_Jan_2015_Sol.docx
+
+Data Structure 2015 MidTerm A Sol
+
+http://www.mediafire.com/file/9sei55u2dybno5t/ADT_MidTerm_SOL_A_2015.pdf
+
+Data Structure 2015 MidTerm B Sol
+
+http://www.mediafire.com/file/b9iw4owqaxl9z4o/ADT_MidTerm_SOL_B_2015.pdf
+
+------------------Prepare for the Course---------------
+1-Struct(User Defined Data Type).
+
+	Video:
+
+	https://www.youtube.com/watch?v=aTNm3GgMu1Y
+
+	Slides:
+
+	Only Page 18.
+
+	http://www.mediafire.com/file/bqf6ftf4vehd9fc/00_a_Lecture+Notes+Data+Structures+CSC-214.pdf
+
+	Source Code:
+
+	http://www.mediafire.com/file/1bsjocalpnivlrb/Struct.cpp
+
+2-Pionters.
+
+	Video:
+
+	https://www.youtube.com/watch?v=bnff7ujvg3k
+	https://www.youtube.com/watch?v=emGFgUcYpm0
+
+	Slides:
+
+	http://www.mediafire.com/file/enjl1mcfst46u8v/00_b_cpphtp4_PPT_05.ppt
+
+	Source Code:
+
+	http://www.mediafire.com/file/4ruh6d9p9r3a5bo/Pointers_Sec_2.cpp
+
+------------------Strucures----------------------------
+
+3-Stack Array Implementation.
+
+	Video:
+
+	1-
+	https://www.youtube.com/watch?v=JmlIHoqaj4I&index=3&list=PLoK2Lr1miEm-5zCzKE8siQezj9rvQlnca
+	2-
+	https://www.youtube.com/watch?v=ePRs24VWHtA&list=PLoK2Lr1miEm-5zCzKE8siQezj9rvQlnca&index=4
+	3-
+	https://www.youtube.com/watch?v=kahbXJ_nQzU&list=PLoK2Lr1miEm-5zCzKE8siQezj9rvQlnca&index=5
+
+	Slides:
+
+	http://www.mediafire.com/file/js72jdda7k69lj1/01ContiguousStacks.pptx
+
+	Source Code:
+
+	http://www.mediafire.com/file/aez6qeocf8awvwa/01-Stack_AYA_Array.cpp
+
+4-Stack Linked Implementation.
+
+	Video:
+
+	1-
+	https://www.youtube.com/watch?v=m-FooXh-YzU&list=PLoK2Lr1miEm-5zCzKE8siQezj9rvQlnca&index=6
+	2-
+	https://www.youtube.com/watch?v=y98U74U3BBE&list=PLoK2Lr1miEm-5zCzKE8siQezj9rvQlnca&index=7
+
+
+	http://www.mediafire.com/file/yqexqkivnqyiwp6/01-Stack_Traverse%26Clear.mp4
+	http://www.mediafire.com/file/wflcv359wtjwdcx/02-Stack_Traverse%26Clear.mp4
+	
+	http://www.mediafire.com/file/p0smbk23b8cu82d/03-Stack_Drawing.mp4
+
+	http://www.mediafire.com/file/uknisc03ipm18ns/6-Test_Stack_New.avi
+		
+	Slides:
+
+	http://www.mediafire.com/file/yzcdzpgm303gw2q/02LinkedStacks.pptx
+
+	Drawing:
+	http://www.mediafire.com/file/cujgxbinhckjzj3/Stack%282%29.pdf
+
+	Source Code:
+
+	http://www.mediafire.com/file/03rapwkzepke7j7/02-Stack.cpp
+
+5-Queue Array Implementation.
+
+	Video:
+
+	https://www.youtube.com/watch?v=sNgYno_BXQo&list=PLoK2Lr1miEm-5zCzKE8siQezj9rvQlnca&index=10
+
+	Slides:
+
+	http://www.mediafire.com/file/effdc0i33h96cvn/04Queues.pptx
+
+	Source Code:
+
+	http://www.mediafire.com/file/a0hnwxdw3n4n1x0/04-Queue_AYA_Array.cpp
+
+6-Queue Linked Implementation.
+
+	Video:
+
+	https://www.youtube.com/watch?v=UU7_Z0UgX-Y&list=PLoK2Lr1miEm-5zCzKE8siQezj9rvQlnca&index=11
+
+
+	http://www.mediafire.com/file/z883kyhfwa681qz/04-Queue_Drawing.mp4
+
+ 
+	http://www.mediafire.com/file/iakv1muj7wd9d31/7-Test_Queue_New.avi 
+
+	Slides:
+
+	http://www.mediafire.com/file/effdc0i33h96cvn/04Queues.pptx
+
+	Drawing:
+	http://www.mediafire.com/file/92hte1xnd32u3w3/Queue.pdf
+
+	Source Code:
+
+	http://www.mediafire.com/file/p1ffipe0o8ccps7/05-Queue.cpp
+
+7-Linked Lists (Single Linear).
+
+	Video:
+
+	http://www.mediafire.com/file/8a25fsih9rrs939/10-Linked_List_A.avi 
+ 
+	http://www.mediafire.com/file/at69idg6eanm32b/11-Linked_List_B_Insert.avi 
+
+	http://www.mediafire.com/file/cc7ndn56mv8h85r/12-Linked_List_C_Delete.avi 
+
+	http://www.mediafire.com/file/7ll123pxkbzf8n2/13-Linked_List_D.avi 
+
+	Slides:
+
+	Page 52
+	http://www.mediafire.com/file/bqf6ftf4vehd9fc/00_a_Lecture+Notes+Data+Structures+CSC-214.pdf
+
+	Drawing:
+	http://www.mediafire.com/file/omy16qey467pmon/General_List_Drawing.pdf
+
+
+	Source Code:
+
+	http://www.mediafire.com/file/vckjlsslq312zs2/LinkedList_SO.cpp
+
+----Appictation on one of the Sturctures(Stack)---------
+
+8-Stack Application(Polish Notation).
+
+	Video:
+
+	https://www.youtube.com/watch?v=VaRvkl6h8YE&index=9&list=PLoK2Lr1miEm-5zCzKE8siQezj9rvQlnca
+
+	https://www.youtube.com/watch?v=zB_5dJL9-mo
+
+	https://www.youtube.com/watch?v=MeRb_1bddWg
+
+	https://www.youtube.com/watch?v=rA0x7b4YiMI
+
+	1
+	http://www.mediafire.com/file/sg8x5i8q29stysx/01-StackApp.mp4
+
+	2
+	http://www.mediafire.com/file/n6rthhpxzhc65gf/02-StackApp.mp4
+	
+	3
+	http://www.mediafire.com/file/n6rthhpxzhc65gf/02-StackApp.mp4
+
+	4
+	http://www.mediafire.com/file/7vio8zb4odtwn5d/04-StackApp.mp4
+
+	5
+	http://www.mediafire.com/file/f5afxmr7cebd72h/05-StackApp.mp4
+
+	6
+	http://www.mediafire.com/file/womcdbvtbvnnkay/06-StackApp.mp4
+
+	7
+	http://www.mediafire.com/file/0mc93yvlf3fdyzw/07-StackApp.mp4
+
+	Slides:
+
+	http://www.mediafire.com/file/0lyy4gg52y40yff/03StackApplications.pptx
+
+	Drawing:
+	http://www.mediafire.com/file/t0k0lvipiq9ieib/Stack_App_Polish_Notation.pdf
+
+	Source Code:
+
+	http://www.mediafire.com/file/2desb4g99sf5g35/03-Stack_App_Polish_Notation.cpp
+
+
+
+-------------------------------------------------------
+9-Sorting and Searching Algoritms
+	
+	Video:
+
+	Sorting Algorithms:
+	===============
+
+	1-Bubble
+	------------
+ 	https://www.youtube.com/watch?v=8XjK6fagJeA 
+ 
+	2-Insertion 
+	--------------
+ 	https://www.youtube.com/watch?v=fJMDs0by5xI 
+ 
+	3-Selection:
+	----------------
+ 	https://www.youtube.com/watch?v=KYSv6FY7_kM&list=PLrW6ND2wzt4qVfoiiblU95KOWuEnI3xDV&index=1 
+ 
+	4-Merge
+	-----------
+ 	https://www.youtube.com/watch?v=Pow9VYIWfOg 
+ 
+
+	Searching Algorithms:
+	=================
+
+	1-Linear 
+	-----------
+ 	https://www.youtube.com/watch?v=hi-lwJRQ1-s 
+ 
+	2-Binary
+	----------
+ 	https://www.youtube.com/watch?v=q8mL8fHKOtw
+
+	https://www.youtube.com/watch?v=UeUyTbtFxQQ
+
+	Slides:
+
+	Sorting Algorithms:
+	===============
+
+	1-Bubble
+	------------
+ 
+	Diagram and Algorithm :
+
+	https://www.tutorialspoint.com/data_structures_algorithms/bubble_sort_algorithm.htm
+	http://www.mediafire.com/file/0plh0slg4v2r9cd/05_1_Bubble_Sort.pptx
+ 
+	2-Insertion 
+	--------------
+
+	Diagram and Algorithm:
+	
+	https://www.tutorialspoint.com/data_structures_algorithms/insertion_sort_algorithm.htm
+ 
+
+	3-Selection:
+	----------------
+
+	Diagram and Algorithm:
+
+	https://www.tutorialspoint.com/data_structures_algorithms/selection_sort_algorithm.htm
+ 
+	
+	4-Merge
+	-----------
+
+	Diagram and Algorithm:
+
+	https://www.tutorialspoint.com/data_structures_algorithms/merge_sort_algorithm.htm
+ 
+
+	Searching Algorithms:
+	=================
+
+	1-Linear 
+	-----------
+
+	Diagram and Algorithm:
+
+	https://www.tutorialspoint.com/data_structures_algorithms/linear_search_algorithm.htm
+ 
+	2-Binary
+	----------
+
+	Diagram and Algorithm:
+
+	https://www.tutorialspoint.com/data_structures_algorithms/binary_search_algorithm.htm
+
+	http://quiz.geeksforgeeks.org/binary-search/
+
+	http://www.codingtree.com/algorithms-in-c/algorithms-in-c-binary-search.html
+
+
+	Source Code:
+
+	Sorting Algorithms:
+	===============
+
+	1-Bubble
+	------------
+	http://www.mediafire.com/file/bplofcy9c1mnt3r/0-Bubble_Sort-SO.cpp 
+ 
+	2-Insertion 
+	--------------
+ 	http://www.mediafire.com/file/8azru852kmjph1l/1-Insertion_Sort-SO.cpp 
+ 
+	3-Selection:
+	----------------
+ 	http://www.mediafire.com/file/3aqyr62i0p4pugt/2-Selection_Sort-SO.cpp 
+ 
+	4-Merge („‘ „ÿ«·»‰ »ÌÂ« ›Ì «·«„ Õ«‰)
+	-----------
+ 	http://www.mediafire.com/file/pemxyt1vyc47uac/3-Merge_Sort.cpp
+
+
+	Searching Algorithms:
+	=================
+	1-Linear 
+	-----------
+	http://www.mediafire.com/file/fmbj5bk26na7tki/4-Linear_Search.cpp
+
+	2-Binary
+ 	---------- 
+ 	http://www.mediafire.com/file/9q3a2us15krb5pn/5-Binary_Search.cpp 
+
+
+	Analysis of Linear and Binary
+	-----------------------------
+	http://www.mediafire.com/file/1rhg93s121l10p5/22-Big_O_Linear%26Binary.mp4
+
+
+-------------------------------------------------------
+10-Recursion(Tower of Hanoi)
+
+	Video:
+
+	https://www.youtube.com/watch?v=T3m5zHE9BM0&index=8&list=PLoK2Lr1miEm-5zCzKE8siQezj9rvQlnca	
+
+	https://www.youtube.com/watch?v=5_6nsViVM00
+
+	Slides:
+
+	http://www.mediafire.com/file/0lyy4gg52y40yff/03StackApplications.pptx 
+	
+	Source Code:
+	
+	http://www.mediafire.com/file/q7iz2r085o1a1d2/Recursion.cpp
+
+-------------------------------------------------------
+11-Binary Tree 
+
+	Video:
+
+	http://www.mediafire.com/file/p8r0vrlklr62dra/23-BST.mp4
+
+	http://www.mediafire.com/file/rhcj367uccz6d06/24-BST.mp4
+
+	http://www.mediafire.com/file/w7rvsabpa7wly9w/25-BST.mp4
+
+	http://www.mediafire.com/file/spsc7obcjip6jye/26-BST.mp4
+
+	http://www.mediafire.com/file/e7r3ea55yqky8bh/27-BST.mp4
+
+	http://www.mediafire.com/file/a0ramopoy6ra8m0/28-BST.mp4
+
+	http://www.mediafire.com/file/xqroy6p74cjtscp/29-BST.mp4
+	
+	https://www.youtube.com/watch?v=qH6yxkw0u78&index=25&list=PL2_aWCzGMAwI3W_JlcBbtYTwiQSsOTa6P
+
+	https://www.youtube.com/watch?v=H5JubkIy_p8&index=26&list=PL2_aWCzGMAwI3W_JlcBbtYTwiQSsOTa6P
+
+	https://www.youtube.com/watch?v=pYT9F8_LFTM&index=27&list=PL2_aWCzGMAwI3W_JlcBbtYTwiQSsOTa6P
+
+	Slides:
+
+	From Page 64 to Page 79
+	http://www.mediafire.com/file/bqf6ftf4vehd9fc/00_a_Lecture+Notes+Data+Structures+CSC-214.pdf
+
+
+	http://www.mediafire.com/file/02f1ea1tkhl1udd/07Intro_BST.pdf
+
+	Source Code:
+
+	http://www.mediafire.com/file/bujz9nxyqegavq0/Tree-SO.cpp
+
+-------------------------------------------------------
+Tasks and Model Answer
+
+	Task 1:
+	http://www.mediafire.com/file/ja77c2ndokofgq0/DS_TASK_1_SOL_2016.docx
+
+	Task 2:
+ 	http://www.mediafire.com/file/bfpavy9fk62kxdd/DS_TASK_2_SOL_2016.pdf 
+	
+	Task 3:
+ 	http://www.mediafire.com/file/aes5pcqpekec4ld/DS_TASK_3_SOL_2016.docx 
+
+	Task 4:
+ 	http://www.mediafire.com/file/03y2vntcynovw39/DS_TASK_4_SOL_2016.docx 
+
+	Task 5:
+ 	http://www.mediafire.com/file/44h08vfszfcc7e1/DS_TASK_5_SOL_2016.docx 
+
+	Task 6:
+  	http://www.mediafire.com/file/z87s8b9ie1z8d9e/DS_TASK_6_SOL_2016.docx 
+
+	Task 7:
+ 	http://www.mediafire.com/file/j34d7vvghrwbyd3/DS_TASK_7_SOL_2016.docx 
+
+	Task 8:
+ 	http://www.mediafire.com/file/h9kr6959zao26f8/DS_TASK_8_SOL_2016.docx 
+
+	Task 9:
+	http://www.mediafire.com/file/3ij6oc00vbotjcv/DS_TASK_9_SOL_2016.docx

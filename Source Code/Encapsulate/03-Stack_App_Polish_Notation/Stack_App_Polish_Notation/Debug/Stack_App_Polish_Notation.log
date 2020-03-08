@@ -1,0 +1,30 @@
+﻿Build started 21/11/2016 11:43:08 ص.
+     1>Project "C:\Users\Ahmed\Documents\Visual Studio 2010\Projects\Stack_App_Polish_Notation\Stack_App_Polish_Notation\Stack_App_Polish_Notation.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Debug\Stack_App_Polish_Notation.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         All outputs are up-to-date.
+         c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"StdAfx.h" /Fp"Debug\Stack_App_Polish_Notation.pch" /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt Stack_App_Polish_Notation.cpp
+         Stack_App_Polish_Notation.cpp
+     1>c:\users\ahmed\documents\visual studio 2010\projects\stack_app_polish_notation\stack_app_polish_notation\stack_app_polish_notation.cpp(71): warning C4715: 'Oper' : not all control paths return a value
+       ManifestResourceCompile:
+         All outputs are up-to-date.
+       Link:
+         c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Ahmed\Documents\Visual Studio 2010\Projects\Stack_App_Polish_Notation\Debug\Stack_App_Polish_Notation.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\Stack_App_Polish_Notation.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\Users\Ahmed\Documents\Visual Studio 2010\Projects\Stack_App_Polish_Notation\Debug\Stack_App_Polish_Notation.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Ahmed\Documents\Visual Studio 2010\Projects\Stack_App_Polish_Notation\Debug\Stack_App_Polish_Notation.lib" /MACHINE:X86 Debug\Stack_App_Polish_Notation.exe.embed.manifest.res
+         Debug\Stack.obj
+         Debug\Stack_App_Polish_Notation.obj
+         Debug\stdafx.obj
+       Manifest:
+         c:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /out:"Debug\Stack_App_Polish_Notation.exe.embed.manifest" /manifest Debug\Stack_App_Polish_Notation.exe.intermediate.manifest
+         All outputs are up-to-date.
+       LinkEmbedManifest:
+         All outputs are up-to-date.
+         Stack_App_Polish_Notation.vcxproj -> C:\Users\Ahmed\Documents\Visual Studio 2010\Projects\Stack_App_Polish_Notation\Debug\Stack_App_Polish_Notation.exe
+       FinalizeBuildStatus:
+         Deleting file "Debug\Stack_App_Polish_Notation.unsuccessfulbuild".
+         Touching "Debug\Stack_App_Polish_Notation.lastbuildstate".
+     1>Done Building Project "C:\Users\Ahmed\Documents\Visual Studio 2010\Projects\Stack_App_Polish_Notation\Stack_App_Polish_Notation\Stack_App_Polish_Notation.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:02.03
